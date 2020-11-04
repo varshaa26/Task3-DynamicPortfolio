@@ -1,0 +1,84 @@
+{
+	"details":{
+		"myname":"VENKATA VARSHA",
+		"image":"images/profile.jpg",
+		"Email":"varshaakv22@gmail.com",
+		"Phone":"9988776655",
+		"Address":"Buchireddypalem,Nellore"
+	},
+
+   "careerobjective":{
+    "details":{"info":"To become a Software developer"}
+   },
+   "educationalqualification":[
+
+      {
+            "course":"Course",
+            "institute":"College",
+            "passoutyear":"Year of Passing",
+            "percentage":"Percentage"
+
+        },
+
+   	{
+      "course":"B.Tech/ECE",
+   		"institute":"Balaji Institue Of Engineering And Mangement Studies",
+   		"passoutyear":"2020",
+   		"percentage":"80%"
+
+   	},
+   	{
+      "course":"Intermediate",
+   		"institute":"Sri Siddardha Junior College",
+   		"passoutyear":"2016",
+   		"percentage":"94.8%"
+
+   	},
+   	{
+      "course":"SSC",
+   		"institute":"Z P P Girls High School",
+   		"passoutyear":"2014",
+   		"percentage":"93%"
+   	}
+
+   ],
+
+
+   "techinicalskills":[
+   	{
+   		"title":"programming languages",
+   		"info":["C,Python"]
+   	},
+   	{
+   		"title":"Web Technology",
+   		"info":["HTML5,CSS3"]
+   	},
+   	{
+   	    "title":"Frameworks",
+   		"info":["Django"]
+   	}
+   		
+  
+   ],
+
+   "cocurricularactivities":{
+        
+        "details":{"info1":"participated in the MSP430-an Drishti online contest by TI University program",
+                   "info2":"Presented papers on “3D TECHNOLOHY” at Audisakara college of engineering and technology",
+                   "info3":"Proactively participated and organized all college and school level functions and events"}
+    },
+
+   "personalitytraits":{
+        
+        "details":{"info1":"patience" ,
+                   "info2":"responsible",
+                   "info3":"smartkwork",
+                   "info4":"Passion towards profession"}
+    },
+    "certification":{
+            
+            "details":{"info1":"web development using django","info2":"Aritificial intelligence,chatbots"}
+        }
+    
+}
+	
